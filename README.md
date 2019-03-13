@@ -1,4 +1,4 @@
-## Game of Loans - MIT Bitcoin Hackathon
+## Game of Loans - Peer-Peer lending platform developed at MIT Bitcoin Hackathon 2017
 
 This hack uses:
 - The Dharma Protocol smart contracts and migrations tooling
@@ -7,6 +7,7 @@ This hack uses:
 - IPFS - JS library
 - Uport for authentication (Uport app currently not working).
 - The `truffle` Ethereum development framework.
+
 
 ### Setup
 ---------------
